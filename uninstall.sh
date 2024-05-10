@@ -1,0 +1,1 @@
+kubectl delete -k ./envs/local-env
